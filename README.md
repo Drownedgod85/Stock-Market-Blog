@@ -1,4 +1,4 @@
-# A web-based application using JavaScript, Python, and SQL, based in part on the web track’s distribution code
+# A web-based application using JavaScript, based in part on the web track’s distribution code
 
 ## Stock market forecasting blog
 
